@@ -1,4 +1,4 @@
 # qrcode-generator
 qrcode-generator
 
-: https://pypi.org/project/segno/
+* https://pypi.org/project/segno/
