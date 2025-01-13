@@ -1,5 +1,3 @@
-# animated_qrcode.py
-
 import segno
 
 data = "https://github.com/iMatheusHenrique"
