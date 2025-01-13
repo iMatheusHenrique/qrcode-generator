@@ -1,7 +1,6 @@
 # animated_qrcode.py
 
 import segno
-from urllib.request import urlopen
 
 data = "https://github.com/iMatheusHenrique"
 
